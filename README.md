@@ -1,1 +1,0 @@
-# -mock-interview1.md

@@ -7,4 +7,5 @@ Exception and exception handling-----9/10
 polymorphism---------------------7/10
 Array and Arraylist--------------8/10
 maven introduction===============5/10
+dependancies=====================8/10
 
